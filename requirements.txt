@@ -1,0 +1,17 @@
+sqlalchemy
+fastapi
+psycopg2-binary
+librosa
+tensorflow
+opencv-python
+torch
+tqdm
+numpy
+torchvision
+tensorflow_hub
+pydub
+uvicorn
+fastapi_sqlalchemy
+python-multipart
+alembic
+aiofiles
